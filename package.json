@@ -1,0 +1,22 @@
+{
+  "name": "platform-project",
+  "version": "1.0.0",
+  "description": "Internal platform demo service for learning Platform Engineering concepts.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": ["platform", "devops", "node", "express", "postgres"],
+  "author": "Lotanna Dave-Nwanze",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
