@@ -7,7 +7,7 @@ This project is part of a broader initiative to design platform tooling, develop
 
 ---
 
-## ✅ Features (Current Functionality)
+## Features (Current Functionality)
 
 - Working REST endpoint: `GET /api/tasks`
 - Functional service-to-service networking via Docker
@@ -17,7 +17,7 @@ This project is part of a broader initiative to design platform tooling, develop
 
 ---
 
-## ✅ How to Run (Dev Environment)
+## How to Run (Dev Environment)
 
 ### 1. Create `.env` from templates
 `bash`
@@ -33,7 +33,7 @@ This project is part of a broader initiative to design platform tooling, develop
 
 ---
 
-## ✅ Database Schema (Tasks Table)
+## Database Schema (Tasks Table)
 
 `sql`
 - id          SERIAL PRIMARY KEY
@@ -45,7 +45,7 @@ This project is part of a broader initiative to design platform tooling, develop
 
 ---
 
-## ✅ Roadmap (Next Steps)
+## Roadmap (Next Steps)
 
 ### Phase 1 — Operational Maturity
 
@@ -79,7 +79,7 @@ This project is part of a broader initiative to design platform tooling, develop
 
 ---
 
-## ✅ Purpose of This Project
+## Purpose of This Project
 
 This service is the first workload in a broader Internal Developer Platform project.
 The long-term goal is to demonstrate:
